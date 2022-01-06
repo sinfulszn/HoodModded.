@@ -4,7 +4,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 Title = "CREDITS",     
 
-Text = "Gui By sinful#06666",
+Text = "Gui By sinful#0666",
 
 Button1 = "⭐",
 
