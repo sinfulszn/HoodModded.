@@ -4,7 +4,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 Title = "CREDITS",     
 
-Text = "Gui By sinful#0666",
+Text = "Gui By kaii#9999",
 
 Button1 = "⭐",
 
@@ -3754,13 +3754,13 @@ end)
 
 local Credits= Win:Tab('Credits')
 
-Credits:Button("Gui By sinful#0666",function()
+Credits:Button("Gui By kaii#9999",function()
 
 print ("yessir sinW")
 
 end)
 
-Credits:Button("sinfulW",function()
+Credits:Button("kaiW",function()
 
 print ("have fun ;)")
 
